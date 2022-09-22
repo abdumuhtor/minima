@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #014E56;
+}
+
+.sct {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 70px 40px;
+}
+.sct__list {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-right: 300px;
+}
+.sct__list-item {
+  font-size: 16px;
+  margin: 10px;
+  color: white;
+  margin-top: 32px;
+}
+
+.sct a {
+  text-decoration: none;
+  color: white;
+}
+
+.sct__text {
+  font-family: sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  color: white;
+}
+
+.click {
+  padding: 8px 16px;
+  border-radius: 24px;
+  background-color: #014E56;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid white;
+}
+
+.sct__text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 70px;
+}
+.sct__text2 h1 {
+  width: 635px;
+  height: 200px;
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 100px;
+  color: #FFFFFF;
+}
+.sct__text2 p {
+  display: flex;
+  width: 445px;
+  height: 112px;
+  font-weight: 600;
+  font-size: 18px;
+  color: white;
+  font-family: "Livvic";
+  margin-top: 118px;
+}
+
+body {
+  background-color: #014E56;
+}
+
+.sct {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 70px 40px;
+}
+.sct__list {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-right: 300px;
+}
+.sct__list-item {
+  font-size: 16px;
+  margin: 10px;
+  color: white;
+  margin-top: 32px;
+}
+
+.sct a {
+  text-decoration: none;
+  color: white;
+}
+
+.sct__text {
+  font-family: sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  color: white;
+}
+
+.click {
+  padding: 8px 16px;
+  border-radius: 24px;
+  background-color: #014E56;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid white;
+}
+
+.sct__text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 70px;
+}
+.sct__text2 h1 {
+  width: 635px;
+  height: 200px;
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 100px;
+  color: #FFFFFF;
+}
+.sct__text2 p {
+  display: flex;
+  width: 445px;
+  height: 112px;
+  font-weight: 600;
+  font-size: 18px;
+  color: white;
+  font-family: "Livvic";
+  margin-top: 118px;
+}/*# sourceMappingURL=main.css.map */
